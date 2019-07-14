@@ -1,0 +1,21 @@
+将vsco文件夹下.3dl文件全部复制到ps安装目录下presents\3DLUTs
+
+...\Program Files\Adobe\Adobe Photoshop CC 2017\Presets\3DLUTs
+
+使用：ps中颜色查找，载入3D LUT文件，找到需要的滤镜
+
+
+····································
+视频调色软件安装lut插件看另一个“LUT预设怎么安装”说明
+
+pr安装：
+用lumetri插件调用，看图片说明“pr安装”
+1、在效果-视频效果-颜色校正里，双击添加lumetri color控件
+2、在颜色里，出现lumetri调整面板，在创意-look-添加滤镜cube文件，可以实时预览
+
+
+
+··············
+滤镜风格：小清新vsco a8，欧美暗调vsco c8 e4适合白皮肤。g系列和s3适合人像，hb系列适合时尚街拍
+
+          instagram- reyes，juno，ludwig是我的真爱滤镜，调人像视频，街拍，婚礼简直神器

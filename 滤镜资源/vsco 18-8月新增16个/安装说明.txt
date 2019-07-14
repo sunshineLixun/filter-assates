@@ -1,0 +1,4 @@
+mac：右键ps图标，在finder中查找，找到ps安装目录，跟Windows一样，能看到Presets文件夹，进去有3DLUTs文件夹，把下载的滤镜不带文件夹全部拷贝到3DLUTs。
+使用：在ps里颜色查找工具，能看到刚刚复制的滤镜列表。选择滤镜，会新建滤镜图层，更改图层不透明度即是改变强度。
+
+pr和fcpx调整视频用cube，pr自带lumetri工具可以调用lut，fcpx10.4以上自带lut工具，10.4之前的版本百度pixel lut loader

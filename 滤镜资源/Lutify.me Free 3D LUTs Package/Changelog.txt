@@ -1,0 +1,82 @@
+V 1.6.0 - 2018-07-19
+-----------------------------------------------------------
+
+- Introduced one-click installation for ON1 Photo RAW 2018.5. You can now use our LUTs natively in ON1 Photo RAW 2018.5 and get real-time and thumbnails preview, opacity and contrast controls and more. Integration for ON1 Photo RAW 2018.5 is packed in convenient .ONPreset format.
+
+V 1.5.0 - 2018-04-12
+-----------------------------------------------------------
+
+- Introduced LUTs as Profiles for Adobe Photoshop Lightroom Classic CC and Adobe Photoshop Lightroom CC. You can now use our LUTs natively in Adobe Photoshop Lightroom Classic CC (version 7.3, April 2018 update and later) and Adobe Photoshop Lightroom CC (version 1.3 and later) through Profiles option and easily adjust the opacity of LUTs.
+
+V 1.4.0 - 2018-01-04
+-----------------------------------------------------------
+
+- Introduced variable opacity LUTs for Capture One software. All color grading LUTs for Capture One now come in 25%, 50%, 75% and 100% opacities for increased compatibility with different workflows.
+
+V 1.3.0 - 2017-10-16
+-----------------------------------------------------------
+
+- Introduced LUTs for Adobe Photoshop Lightroom.
+
+V 1.2.1 - 2017-09-25
+-----------------------------------------------------------
+
+- Introduced RED IPP2 pre log conversion color grading and monitoring LUTs.
+- Introduced Arri Look Files for monitoring with Arri Alexa/Amira cameras.
+
+V 1.2.0 - 2017-07-19
+-----------------------------------------------------------
+
+- Introduced LUTs support for Capture One. Version 1.2.0 adds support for all current workflows supported by Capture One software for both Raw and TIFF (or JPG, PNG) files.
+
+V 1.1.8 - 2017-05-29
+-----------------------------------------------------------
+
+- Added Panasonic .vlt 17x17x17 monitoring LUTs for use with Panasonic cinema cameras. These monitoring LUTs are intended for Panasonic V-Gamut and V-Log formats and are concatenated with the Panasonic V-Gamut - Panasonic V-Log to Rec709 log conversion LUT.
+
+V 1.1.7 - 2017-04-10
+-----------------------------------------------------------
+
+- Added 17x17x17 size LUTs for monitoring purposes. You can now load these smaller LUTs for monitoring purposes when larger 33x33x3 LUTs aren't supported. Please note, these LUTs are for monitoring purposes and should not be used for color grading. For color grading, please use the standard 33x33x33 size LUTs.
+
+V 1.1.6 - 2017-01-16
+-----------------------------------------------------------
+
+- Updated color science and further improved 8-bit footage compatibility.
+
+V 1.1.5 - 2017-01-13
+-----------------------------------------------------------
+
+- Updated 8-bit footage compatibility.
+
+V 1.1.4 - 2016-10-03
+-----------------------------------------------------------
+
+- Reworked color science behind generic log LUTs. We have updated the color science to better suite a wider range of log formats with minimal adjustments needed.
+
+V 1.1.3 - 2016-07-21
+-----------------------------------------------------------
+
+- Cosmetic change. Removed DOMAIN_MIN and DOMAIN_MAX values from LUTs to improve compatibility with OpenColorIO based software in general and Lightworks NLE in particular.
+
+V 1.1.2 - 2016-06-26
+-----------------------------------------------------------
+
+- Updated and unified ALL LUT sizes to 33^3 cube size for better compatibility with different software packages, in particular Arri Color Tool and Adobe Premiere Pro systems with older Nvidia GPU cards.
+- Updated Layer Comps file to reflect the new LUTs size change.
+
+V 1.1.1 - 2016-05-31
+-----------------------------------------------------------
+
+- Cosmetic changes
+
+V 1.1.0 - 2016-05-24
+-----------------------------------------------------------
+
+- Added Log support for all LUTs in free package
+- Updated Layer Comps file
+
+V 1.0.0 - 2016-04-01
+-----------------------------------------------------------
+
+- Initial Release
